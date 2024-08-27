@@ -6,9 +6,9 @@ from airflow.utils.dates import days_ago
 
 # Task 1.1 - Define DAG arguments
 default_args = {
-    'owner':'Marco Boccenti',
+    'owner':'Phuong',
     'start_date':days_ago(0),
-    'email':['marco.boccenti@gmail.com'],
+    'email':['phuonght.hp@gmail.com'],
     'email_on_failure':True,
     'email_on_retry':True,
     'retries':1,
