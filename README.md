@@ -1,9 +1,10 @@
 # ETL Traffic Toll Data
 
-## Scenario
-You are a data engineer at a data analytics consulting company. You have been assigned a project to decongest the national highways by analyzing the road traffic data from different toll plazas. Each highway is operated by a different toll operator with a different IT setup that uses different file formats. Your job is to collect data available in different formats and consolidate it into a single file.
+## Overview 
+This is a project to decongest the national highways by analyzing the road traffic data from different toll plazas. Each highway is operated by a different toll operator with a different IT setup that uses different file formats. 
+The main objective of this project is to collect data available in different formats and consolidate it into a single file.
 
-In this assignment, you will develop an Apache Airflow DAG that will:
+## Tasks:
 
 - Extract data from a csv file
 
